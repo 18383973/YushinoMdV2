@@ -22,24 +22,24 @@ let teksnomor = (
 )
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown1 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1])
-let teksbio = `┆⫹⫺ 💌 Nama : Aldi
+let teksbio = `┆⫹⫺ 💌 Nama : Vincentt ?
 ┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
 ┆⫹⫺ ♂️ Gender : Pria
 ┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 16 - 10 - 2007
-┆⫹⫺ 🎨 Umur : 15
+┆⫹⫺ ⏰ Tanggal lahir : 17 - 10 - 2007
+┆⫹⫺ 🎨 Umur : 14
 ┆⫹⫺ 🧮 Kelas : IX
 ┆⫹⫺ 🧩 Hobby : 𝙼𝚘𝚍𝚒𝚏𝚒𝚔𝚊𝚜𝚒 𝚙𝚎𝚛𝚊𝚗𝚐𝚔𝚊𝚝 𝚕𝚞𝚗𝚊𝚔
-┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
+┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH and Suka jajanin temen
 ┆⫹⫺ 🗺️ Tinggal : Indonesia, Sumatera Utara
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆⫹⫺ 💌 Nama : Aisyah
+let teksbio2 = `┆⫹⫺ 💌 Nama : Aurel
 ┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
 ┆⫹⫺ ♂️ Gender : Wanita
 ┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 07 - 05 - 2007
+┆⫹⫺ ⏰ Tanggal lahir : 19 - 10 - 2008
 ┆⫹⫺ 🎨 Umur : 15
 ┆⫹⫺ 🧮 Kelas : IX
 ┆⫹⫺ 🧩 Hobby : Banyak
@@ -63,8 +63,8 @@ title: `⫹⫺ Oᴛʜᴇʀ ⫹⫺`,
 rows: [
 {title: "⸙ Kontak", rowId: ".owner kontak"},
 {title: "⸙ Nomor", rowId: ".owner nomor"},
-{title: "⸙ Biodata Aldi", rowId: ".owner bio"},
-{title: "⸙ Biodata Aisyah", rowId: ".owner bio2"},
+{title: "⸙ Biodata Vincentt ?", rowId: ".owner bio"},
+{title: "⸙ Biodata Aurel", rowId: ".owner bio2"},
 {title: "⸙ Script", rowId: ".sc"},
 ]}, {
 title: `⬔ Sᴜᴘᴘᴏʀᴛ Mᴇ ⬔`,
