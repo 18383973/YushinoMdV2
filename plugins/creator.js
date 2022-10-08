@@ -64,7 +64,7 @@ rows: [
 {title: "⸙ Kontak", rowId: ".owner kontak"},
 {title: "⸙ Nomor", rowId: ".owner nomor"},
 {title: "⸙ Biodata Vincentt ?", rowId: ".owner bio"},
-{title: "⸙ Biodata Aurel", rowId: ".owner bio2"},
+{title: "⸙ Biodata Aurell❤️", rowId: ".owner bio2"},
 {title: "⸙ Script", rowId: ".sc"},
 ]}, {
 title: `⬔ Sᴜᴘᴘᴏʀᴛ Mᴇ ⬔`,
