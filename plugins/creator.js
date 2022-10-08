@@ -27,7 +27,7 @@ let teksbio = `┆⫹⫺ 💌 Nama : Vincentt ?
 ┆⫹⫺ ♂️ Gender : Pria
 ┆⫹⫺ 🕋 Agama : Islam
 ┆⫹⫺ ⏰ Tanggal lahir : 17 - 10 - 2007
-┆⫹⫺ 🎨 Umur : 14
+┆⫹⫺ 🎨 Umur : 15
 ┆⫹⫺ 🧮 Kelas : IX
 ┆⫹⫺ 🧩 Hobby : 𝙼𝚘𝚍𝚒𝚏𝚒𝚔𝚊𝚜𝚒 𝚙𝚎𝚛𝚊𝚗𝚐𝚔𝚊𝚝 𝚕𝚞𝚗𝚊𝚔
 ┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH and Suka jajanin temen
@@ -35,13 +35,13 @@ let teksbio = `┆⫹⫺ 💌 Nama : Vincentt ?
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆⫹⫺ 💌 Nama : Aurel
+let teksbio2 = `┆⫹⫺ 💌 Nama : Aurell❤️
 ┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
 ┆⫹⫺ ♂️ Gender : Wanita
 ┆⫹⫺ 🕋 Agama : Islam
 ┆⫹⫺ ⏰ Tanggal lahir : 19 - 10 - 2008
-┆⫹⫺ 🎨 Umur : 15
-┆⫹⫺ 🧮 Kelas : IX
+┆⫹⫺ 🎨 Umur : 14
+┆⫹⫺ 🧮 Kelas : VIII
 ┆⫹⫺ 🧩 Hobby : Banyak
 ┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
 ┆⫹⫺ 🗺️ Tinggal : Indonesia, Bengkulu
