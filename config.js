@@ -352,7 +352,7 @@ global.phn = '0858 7825 8447'
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/e35d75151e1d465b7c290.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
